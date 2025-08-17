@@ -11,7 +11,7 @@ The hybrid approach improves accuracy compared to using YOLO alone, especially i
 
 ## 🗂 Dataset  
 - Source: Roboflow (https://universe.roboflow.com/aepurisamhitha/car-parking-slot-detection-yolo)
-- Data consists of various images of parking areas.
+- For training CNN, cropped data from YOLO might not be enough. Use a different dataset that consists of cropped parking slots available on the net.
 
 ## ⚙️ Tech Stack / Tools  
 - Python, Open CV, Numpy, Sklearn metrics
