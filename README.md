@@ -10,8 +10,8 @@ The detected parking slots are passed into a CNN model, which classifies each sl
 The hybrid approach improves accuracy compared to using YOLO alone, especially in cases with shadows, partial occlusions, or unclear markings.
 
 ## 🗂 Dataset  
-- Source: Roboflow 
-- Data consists of various images of aprking areas.
+- Source: Roboflow (https://universe.roboflow.com/aepurisamhitha/car-parking-slot-detection-yolo)
+- Data consists of various images of parking areas.
 
 ## ⚙️ Tech Stack / Tools  
 - Python, Open CV, Numpy, Sklearn metrics
